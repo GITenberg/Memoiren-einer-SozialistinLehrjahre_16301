@@ -19,6 +19,8 @@ creator:
     - http://de.wikipedia.org/wiki/Lily_Braun
     - http://en.wikipedia.org/wiki/Lily_Braun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16301#Memoiren-einer-SozialistinLehrjahre
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2005-07-15'
 gutenberg_type: Text
